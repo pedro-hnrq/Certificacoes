@@ -1,4 +1,4 @@
-# <div align="center"> <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="50%"> </div>
+# <div align="center"> <img src="https://th.bing.com/th/id/R.1e387f37c71689e30ebd489db7e27b2e?rik=OEEVV4hSlB3BQQ&pid=ImgRaw&r=0" width="220" heigth="80" alt="Udemy"> </div>
 
 
 ## Domine a REGRESSÃO LINEAR | da teoria a prática

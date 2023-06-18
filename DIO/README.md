@@ -1,4 +1,4 @@
-# <div align="center"> <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50%"> </div>
+# <div align="center"> <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="220" heigth="80" alt="DIO"> </div>
 
 ## Introdução ao Git e ao GitHub 
 <h5>Carga Horário: 3 horas | Ano conclusão: 2023 | <a href="https://www.dio.me/certificate/E874BBC8/share">Plataforma</a> | <a href="https://github.com/pedro-hnrq/Certificacoes/blob/main/DIO/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.pdf"> Certificado</a> </h5>
